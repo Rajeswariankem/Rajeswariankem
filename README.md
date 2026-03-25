@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Rajeswari!<br><br>🚀 Aspiring Software Developer  <br><br>💻 SDE Intern – Solution Analyst & Application Developer  <br>- Designing solutions for complex problems and contributing to application development  <br><br>🧠 600+ LeetCode (Top 9%) | 1700+ Rating | DSA  <br><br>🌱 Learning backend development using Spring Boot and exploring System Design  <br><br>🔧 I enjoy building applications, solving problems, and writing clean, efficient code  <br><br>⚡ Debugging feels like solving puzzles 🧩 and I genuinely enjoy it!
+Hi 👋 I'm Rajeswari!<br><br>🚀 Aspiring Software Developer  <br><br>💻 SDE Intern – Solution Analyst & Application Developer  <br>- Designing solutions for complex problems and contributing to application development  <br><br>🧠 600+ LeetCode (Top 9%) | 1700+ Rating | DSA  <br><br>🌱 Learning backend development using Spring Boot  <br><br>🔧 I enjoy building applications, solving problems, and writing clean, efficient code  <br><br>⚡ Debugging feels like solving puzzles 🧩 and I genuinely enjoy it!
 
 
 ## 🌐 Socials:
