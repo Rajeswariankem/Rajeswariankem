@@ -23,7 +23,6 @@ Hi 👋 I'm Rajeswari!<br><br>🚀 Aspiring Software Developer  <br><br>💻 SDE
 ---
 ![snake gif](https://github.com/Rajeswariankem/Rajeswariankem/blob/output/github-contribution-grid-snake-dark.svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rajeswariankem&label=Profile%20Views&color=0e4429&style=flat)
 
 [![](https://visitcount.itsvg.in/api?id=Rajeswariankem&icon=0&color=3)](https://visitcount.itsvg.in)
 
